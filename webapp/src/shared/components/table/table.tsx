@@ -9,7 +9,6 @@ import {
 import { Box, createTheme, Paper, Typography } from '@mui/material';
 import { GridDDados } from '../../types/dados.types';
 import { GridToolbarFilter } from '@mui/x-data-grid';
-//TESTE Branch
 
 interface ITableProps {
 	DDadosGrid: GridDDados;
